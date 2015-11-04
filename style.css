@@ -1,3 +1,15 @@
+.titre
+{
+text-shadow: 2px 2px 5px red;
+font-size:50px;
+font-style:italic;
+background-image:url("cover.png");
+background-color: #cccccc;
+width: 1200px;
+padding: 70px;
+border: 0px solid  ;
+}
+
 .intro
 {
 background-color:white;
